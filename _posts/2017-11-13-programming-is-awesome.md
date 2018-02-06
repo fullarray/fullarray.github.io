@@ -1,25 +1,10 @@
 ---
-title: Programming is awesome
+title: Programming is awesome if it's practiced frequently
 layout: post
 categories: programming
+date: '2017-11-12 00:40:13'
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. Programming is fundamentally awesome. Especially, when every component falls into place without hassles or issues. Run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is just a thought that has floated around in many companies internal development teams. The idea that talented developers are significantly scarce is a reality. But why?. This bold assertion lays in the fact that many to-be developers don't practice as much as their senior counterparts. Another possible reason is that to-be developers are impatient and would like to get up and running in virtually no time. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The fact that programming is an art is ignored by many, but if a person is to become a developer several hours, days, weeks, and years are needed to reach a comfortable level necessary to perform at a junior and senior developer level.
